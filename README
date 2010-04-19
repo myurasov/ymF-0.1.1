@@ -1,0 +1,47 @@
+ymF 0.1.0 beta readme file
+==========================
+
+ymF is a lightweight PHP application framework, created with KISS principle
+(http://en.wikipedia.org/wiki/KISS_principle) in mind.
+
+Main features include:
+
+  * Every application resource (such as database connection,
+     configuration, templating engine, etc.) is loaded and created
+     when it is really used. Thus, almost no bootstrapping required
+  
+  * Eliminates mess in application by separating project components
+    into clear system of sub-directories
+  
+  * Built-in suppor for API controllers and JSON response output
+  
+  * Flexible configuration layer with support for separate
+    configuration files for each namespace used in project
+  
+  * Built-in mplementation of MVC application flow pattern
+  
+  * Lightweght ORM capabilities
+  
+  * Command-line applications support, including argument parsing,
+    verbocity control, usage messages, logging and progress
+    capabilities.
+  
+  * Built-in support for Twig templating library
+    as default renderer
+  
+  * Support for on-the-fly loading third-party libraries
+    
+  * Extensible structure allows to easily implement new features
+  
+  * Full utilization and support for namespaces
+
+Licence
+=======
+
+ymF can be used by anyone for any purpose without any limitations.
+Any changed files should contain infromation about their original author.
+
+Author
+======
+
+Mikhail Yurasov <me@yurasov.me>, 2010
