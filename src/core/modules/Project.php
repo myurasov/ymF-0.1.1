@@ -16,5 +16,5 @@ const PROJECT_NAME = 'TestApp';
 // Include ymF
 require __DIR__ . '/ymF/ymF.php';
 
-// Register project namespace in autoloader
+// Register project namespace for autoload
 ymF\Kernel::registerAutoloadNamespace(PROJECT_NAME);

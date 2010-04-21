@@ -22,6 +22,9 @@ Main features include:
   
   * Lightweght ORM capabilities
   
+  * Universal classloader can be used to auto-lad third-party
+    libraries and components
+
   * Command-line applications support, including argument parsing,
     verbocity control, usage messages, logging and progress
     capabilities.

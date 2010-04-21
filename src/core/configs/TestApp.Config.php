@@ -15,7 +15,6 @@ class Config extends ConfigBase
 {
   protected static $options = array(
 
+
   );
 }
-
-?>
