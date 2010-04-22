@@ -29,7 +29,7 @@ class Kernel
     // Define version
 
     // major.minor<.change> <status>
-    define('ymF\VERSION', '0.1.0 beta');
+    define('ymF\VERSION', '0.1.1 beta');
 
     // Define paths:
 

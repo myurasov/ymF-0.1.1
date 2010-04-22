@@ -4,14 +4,14 @@ namespace ymF;
 
 require __DIR__ . '/../../core/modules/Project.php';
 
-use ymF\ConsoleUtil;
+use ymF\CLIUtil;
 use ymF\Config;
 use ymF\Request\Request;
 use ymF\Response\Response;
 use ymF\Response\Renderer\RendererBase;
 use ymF\Controller\ControllerBase;
 
-$u = new ConsoleUtil(array(
+$u = new CLIUtil(array(
     'script_name' => 'Controller call',
     'script_version' => '1.0',
     'script_description' => 'Calls controller'

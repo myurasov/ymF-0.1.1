@@ -13,7 +13,7 @@ use ymF\Storage\Storage;
 use ymF\Storage\HostInterface as StorageHostInterface;
 use ymF\Exception;
 
-class ConsoleUtil implements StorageHostInterface
+class CLIUtil implements StorageHostInterface
 {
   // <Constants>
 
