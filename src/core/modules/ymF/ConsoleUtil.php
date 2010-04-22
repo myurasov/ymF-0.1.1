@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Command-line interface utility routines
+ * Command-line interface utility class
  *
  * @copyright 2010 Misha Yurasov
  * @package ymF
