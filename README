@@ -1,4 +1,4 @@
-ymF 0.1.0 beta readme file
+ymF 0.1.1 beta readme file
 ==========================
 
 ymF is a lightweight PHP application framework, created with KISS principle
@@ -37,6 +37,19 @@ Main features include:
   * Extensible structure allows to easily implement new features
   
   * Full utilization and support for namespaces
+
+Installation
+============
+
+In the install/ directory run the following:
+
+php install.php ?
+
+to read parameters help, or just
+
+php install.php d:/path/to/NewProject p:NewProject
+
+to create project "NewProject: in /path/to/NewProject
 
 Licence
 =======
