@@ -32,8 +32,6 @@ $params = $u->getParameters();
 
 //
 
-flush();
-
 $u->start();
 
 $u->status("Creating project in '{$params['d']}'...");
